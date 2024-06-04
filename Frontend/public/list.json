@@ -1,0 +1,74 @@
+[
+    {
+        "id":1,
+        "name": "Story Book",
+        "title":"Step into a world where magic knows no bounds and adventure awaits at every corner. It is an enthralling fantasy tale that whisks readers away to a land brimming with wonder and excitement.",
+        "price":0,
+        "category":"Free",
+        "image":"https://th.bing.com/th/id/OIP.jkHQ8hrY1Zp-d7Q1RrrJVgHaLL?w=202&h=305&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+
+    },
+    {
+        "id":7,
+        "name": "Literature Book",
+        "title":"Delve into a poignant narrative that transcends time and space in a masterfully crafted piece of historical fiction by acclaimed author Margaret Lawson. This novel intricately weaves the lives.",
+        "price":0,
+        "category":"Free",
+        "image":"https://th.bing.com/th/id/OIP.lSeronLP3f4n6KrzrA6qYQHaLL?w=202&h=305&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+
+    },
+    {
+        "id":8,
+        "name": "Poem Book",
+        "title":"Discover a world where every word resonates with the depths of the human soul. Each poem is a brushstroke on the canvas of human emotion, inviting readers to find the beauty of language.",
+        "price":0,
+        "category":"Free",
+        "image":"https://th.bing.com/th/id/OIP.8UfoSPfFnH9lou6geWJp9wHaL2?w=197&h=316&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+
+    },
+    {
+        "id":2,
+        "name": "Comedy Book",
+        "title":"Prepare for a riotous journey through the absurdities and hilarities of modern life. This delightful collection of comedic essays captures the essence of everyday encounters, transforming moments into laugh-out-loud adventures.",
+        "price":0,
+        "category":"Free",
+        "image":"https://th.bing.com/th/id/OIP.jJygwFFpLav9Idx6ZaaV5wHaLX?w=186&h=286&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+
+    },
+    {
+        "id":3,
+        "name": "Sports Book",
+        "title":"Step into the thrilling world of competitive sports, a riveting novel that captures the essence of determination, teamwork, and the relentless pursuit of excellence. This inspiring story follows the journey of Alex Morgan, a talented but underdog athlete striving to prove himself.",
+        "price":50,
+        "category":"Sports",
+        "image":"https://th.bing.com/th/id/OIP.u7ezXKOgdjFzL3K6zSlCFAHaJc?w=186&h=237&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+
+    },
+    {
+        "id":4,
+        "name": "Music Book",
+        "title":"Discover the enchanting world of music and its transformative power in a captivating novel. This beautifully written story follows the life of Clara Evans, a talented young pianist with aspirations of greatness. From her humble beginnings in a small town to the prestigious stages of international concert halls.",
+        "price":100,
+        "category":"Music",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHtRLatWcc4tRqZeYU4OJOatH7fJD0A37bOg&s"
+
+    },
+    {
+        "id":5,
+        "name": "Food Book",
+        "title":"Embark on an unforgettable culinary adventure with  a delightful cookbook by renowned Chef Maria Rossi. This beautifully crafted book takes readers on a gastronomic tour around the globe, featuring an array of mouthwatering recipes that celebrate the rich diversity of international cuisine. it’s a tribute to the art of cooking and the joy of sharing meals.",
+        "price":200,
+        "category":"Food",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7S-aHfz_yNbAcK5Fx1vCeHLKf17BApBLoDg&s"
+    },
+    {
+        "id":6,
+        "name": "Drama Book",
+        "title":"Immerse yourself in a powerful narrative that explores the complexities of human relationships and the resilience of the human spirit. This compelling drama follows the intertwined lives of three strangers brought together by an unexpected tragedy.",
+        "price":0,
+        "category":"Free",
+        "image":"https://th.bing.com/th/id/OIP.GxxPRug96W8VjVodmoi_OAHaKj?w=186&h=265&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+
+    }
+    
+]
